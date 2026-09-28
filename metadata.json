@@ -1,6 +1,6 @@
 {
-  "name": "K3 Movie",
-  "description": "ምርጥ የትርጉም ፊልሞች ማያ፣ መልቀቂያ እና የኮይን መሸጫ መተግበሪያ",
+  "name": "K3 Design Studio",
+  "description": "የሎጎ ዲዛይን፣ ፎቶ እና ቪዲዮ ኤዲቲንግ እንዲሁም የሶሻል ሚዲያ ማኔጅመንት በቴሌብር እና በባንክ ክፍያ ማዘዣ መተግበሪያ",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

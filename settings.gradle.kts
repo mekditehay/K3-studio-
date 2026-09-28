@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "K3 Movie"
+rootProject.name = "K3 Design Studio"
 
 include(":app")

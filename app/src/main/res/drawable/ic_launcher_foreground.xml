@@ -3,6 +3,6 @@
     <item
         android:width="66dp"
         android:height="66dp"
-        android:drawable="@drawable/k3_movie_logo_1790538118566"
+        android:drawable="@drawable/k3_design_icon_1790565678216"
         android:gravity="center" />
 </layer-list>
